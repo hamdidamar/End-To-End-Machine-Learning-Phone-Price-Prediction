@@ -1,0 +1,10 @@
+#dahiliHafiza {
+  width: 100%;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 125%;
+  height: calc(2.875rem + 2px);
+  margin-bottom: 1rem!important;
+}

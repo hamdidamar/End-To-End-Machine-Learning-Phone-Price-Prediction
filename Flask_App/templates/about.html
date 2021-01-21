@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+<link href="{{url_for('static', filename = 'css/bootstrap.min.css')}}" rel="stylesheet">
+{% block title %} About Page {% endblock %}
+
+{% block body %}
+
+<div class="container">
+  <h1 style="text-align: center;">Geliştiriciler</h1>
+
+  <div class="w3-display-container mt-5" style="display: flex; align-items: center; justify-content: center;">
+
+    <div class="ml-5">
+      <img src="{{url_for('static', filename = 'media/hamdi.jpg')}}" class="rounded mx-auto d-block" width="300"
+        height="300" alt="Avatar">
+        <h2 style="text-align: center;">Hamdi Damar </h2>
+        <h3 style="text-align: center;">hamdi.damar@hotmail.com</h3>
+        <h3 style="text-align: center;"><a href="https://github.com/hamdidamar" target="_blank"> Github</a> <a href="https://www.linkedin.com/in/hamdi-damar-bb6a8b159/" target="_blank"> Linkedin</a> <a href="https://medium.com/@hamdidamar" target="_blank"> Medium</a></h3>
+
+    </div>
+
+    <div class="ml-5">
+      <img src="{{url_for('static', filename = 'media/cihan.jpg')}}" class="rounded mx-auto d-block" width="300"
+        height="300" alt="Avatar">
+        <h2 style="text-align: center;">Cihan Çifci</h2>
+        <h3 style="text-align: center;">cihan.cifci@outlook.com</h3>
+        <h3 style="text-align: center;"><a href="https://github.com/cihancifci" target="_blank"> Github</a> <a href="https://www.linkedin.com/in/cihan-%C3%A7ifci-758b13162/" target="_blank"> Linkedin</a> <a href="https://medium.com/@cihan.cifci" target="_blank"> Medium</a></h3>
+    </div>
+
+
+  </div>
+
+
+
+
+</div>
+<script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+
+
+{% endblock %}

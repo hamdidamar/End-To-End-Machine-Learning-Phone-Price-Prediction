@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+<link href="{{url_for('static', filename = 'css/bootstrap.min.css')}}" rel="stylesheet">
+<link href="{{url_for('static', filename = 'css/bootstrap.css')}}" rel="stylesheet">
+{% block title %} İndex Page {% endblock %}
+
+{% block body %}
+
+<div class="container">
+
+
+    <img src="{{url_for('static', filename='media/bayrak.png')}}" class="rounded mx-auto d-block"  width="700" height="300">
+
+
+    <h1 style="text-align: center;">Flask Uygulamasına Hoşgeldiniz 👋</h1>
+
+    <p>Bu proje makine öğrenmesi uygulamalarının web ortamında flask kullanılarak yayınlanmasına örnek olarak
+        geliştirilmiştir.
+        Bir e-ticaret sitesi üzerinden 1824 adet telefon verileri çekilmiş ve incelenmiştir.
+        Bu veriler kullanılarak makine öğrenmesi modelleri eğitilmiş ve projeye dahil edilmiştir.</p>
+
+    <div class="alert alert-primary" role="alert">
+        Tahmin yapmak,istatistlikleri görüntülemek ve proje hakkında daha fazla bilgi edinmek için üst tarafta bulunan
+        menüyü kullanınız.
+    </div>
+
+</div>
+<script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+
+
+{% endblock %}

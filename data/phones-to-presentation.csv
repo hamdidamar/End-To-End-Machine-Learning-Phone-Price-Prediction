@@ -1,0 +1,1825 @@
+Marka,Model,Isletim_Sistemi,Dahili_Hafiza,On_Kamera_Cozunurlugu,Arka_Kamera_Cozunurlugu,Bellek_Kapasitesi,Batarya_Kapasitesi,Fiyat
+ Samsung, M51, Android,128.0,32.0,64.0,8.0,7000.0,4999.0
+ Samsung, Galaxy M31, Android,128.0,32.0,64.0,6.0,6000.0,3239.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,26.0
+ Xiaomi, X3 NFC, Android,128.0,20.0,64.0,6.0,5160.0,3790.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3715.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2340.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4983.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2729.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2750.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,7099.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2350.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6239.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7490.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2829.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1880.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3078.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3130.0
+ Samsung, Galaxy Note 10 Lite, Android,128.0,32.0,12.0,6.0,4500.0,4839.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2749.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6179.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7490.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12779.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3130.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6179.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2999.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3929.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,8548.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,8.0,5260.0,42.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4044.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,11129.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Tcl, 10L, Android,64.0,16.0,48.0,6.0,4000.0,28.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,28889.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Xiaomi, Mi 10 Lite 5G Duos, Android,128.0,16.0,48.0,6.0,4160.0,4299.0
+ Samsung, Galaxy J3 (2016), Android,8.0,5.0,8.0,1.5,2600.0,12999.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Oppo, Reno2 Z, Android,128.0,16.0,48.0,8.0,4000.0,3239.0
+ Xiaomi, Redmi Note 9S, Android,128.0,16.0,48.0,6.0,5020.0,3234.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,3799.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4049.0
+ Xiaomi, Redmi 9 Duos, Android,64.0,8.0,13.0,4.0,5020.0,2530.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2750.0
+ Vestel, Venus Go, Android,8.0,5.0,8.0,1.0,2350.0,1099.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Xiaomi, Redmi 9A, Android,32.0,5.0,13.0,2.0,5000.0,2096.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114199.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8829.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3249.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2019.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7490.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,11749.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8178.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2949.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,1850.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Xiaomi, Redmi 7A, Android,32.0,5.0,12.0,2.0,4000.0,2089.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2289.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy M31, Android,128.0,32.0,64.0,6.0,6000.0,2999.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Poco, F2 Pro, Android,128.0,20.0,64.0,6.0,4700.0,6799.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2410.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6862.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,26.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,10579.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2589.0
+ Vestel, Venus Go, Android,8.0,5.0,8.0,1.0,2350.0,1179.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Reno2 Z, Android,128.0,16.0,48.0,8.0,4000.0,3215.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3580.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,1625.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3340.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Oppo, A91, Android,128.0,16.0,48.0,8.0,4025.0,3360.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ C5 Mobile, Noa G1, Android,8.0,2.0,5.0,1.0,2250.0,990.0
+ LG, K61, Android,128.0,16.0,48.0,4.0,4000.0,2829.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ LG, K41S, Android,32.0,8.0,13.0,3.0,4000.0,2599.0
+ Apple, iPhone 11 Pro Max, iOS,512.0,12.0,12.0,4.0,3969.0,15575.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114199.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3114.0
+ Oppo, A91, Android,128.0,16.0,48.0,8.0,4025.0,3169.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6557.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2039.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5538.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Xiaomi, Redmi 9C, Android,64.0,5.0,13.0,3.0,5000.0,2599.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ Samsung, Note20, Android,256.0,10.0,64.0,8.0,4300.0,8959.0
+ Vestel, Venus Z40, Android,128.0,8.0,16.0,4.0,3500.0,2669.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,25899.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy A30s, Android,64.0,16.0,25.0,4.0,4000.0,2829.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5690.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ C5 Mobile, Noa G1, Android,8.0,2.0,5.0,1.0,2250.0,990.0
+ LG, K61, Android,128.0,16.0,48.0,4.0,4000.0,2829.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ LG, K41S, Android,32.0,8.0,13.0,3.0,4000.0,2599.0
+ Apple, iPhone 11 Pro Max, iOS,512.0,12.0,12.0,4.0,3969.0,15575.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114199.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3114.0
+ Oppo, A91, Android,128.0,16.0,48.0,8.0,4025.0,3169.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6557.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2039.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5538.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Xiaomi, Redmi 9C, Android,64.0,5.0,13.0,3.0,5000.0,2599.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ Samsung, Note20, Android,256.0,10.0,64.0,8.0,4300.0,8959.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Oppo, Reno2 Z, Android,128.0,16.0,48.0,8.0,4000.0,3255.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Meizu, M10, Android,32.0,8.0,13.0,3.0,4000.0,1849.0
+ Oppo, Reno 4, Android,128.0,32.0,48.0,8.0,4015.0,46.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1830.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ Samsung, Note20, Android,256.0,10.0,64.0,8.0,4300.0,9299.0
+ Samsung, Galaxy A20s, Android,32.0,8.0,13.0,3.0,4000.0,2714.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,19.0
+ Xiaomi, Redmi 8, Android,32.0,8.0,12.0,3.0,5000.0,2199.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,2099.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi 9A, Android,32.0,5.0,13.0,2.0,5000.0,2173.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Samsung, Galaxy A30s, Android,64.0,16.0,25.0,4.0,4000.0,2829.0
+ Oppo, A12,,32.0,5.0,13.0,3.0,4230.0,2249.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2949.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3469.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Samsung, Galaxy S20+, Android,128.0,10.0,12.0,12.0,4500.0,7999.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Honor, 8S, Android,64.0,5.0,13.0,3.0,3020.0,1820.0
+ Oppo Realme, C2, Android,64.0,5.0,13.0,3.0,4000.0,2199.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ LG, K61, Android,128.0,16.0,48.0,4.0,4000.0,2989.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Oppo, Reno 4 Pro, Android,256.0,32.0,48.0,8.0,4000.0,6549.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Samsung, Galaxy j7 Prime, Android,32.0,8.0,13.0,3.0,3300.0,2199.0
+ General Mobile, GM 10, Android,64.0,8.0,13.0,3.0,4000.0,2.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3919.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,12199.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, Galaxy S10 Lite, Android,128.0,32.0,48.0,8.0,4500.0,5999.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,1850.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Oppo, Reno 4, Android,128.0,32.0,48.0,8.0,4015.0,46.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,3290.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ General Mobile, GM 9 Plus, Android,32.0,12.0,5.0,3.0,3450.0,2099.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Xiaomi, Redmi 9A, Android,32.0,5.0,13.0,2.0,5000.0,2173.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3469.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1830.0
+ Oppo Realme, RMX2040, Android 10,128.0,16.0,64.0,4.0,4300.0,2849.0
+ Samsung, Galaxy A20s, Android,32.0,8.0,13.0,3.0,4000.0,2714.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3250.0
+ Reeder, P13 Blue, Android,16.0,5.0,8.0,3.0,4080.0,14.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Oppo, Reno2 Z, Android,128.0,16.0,48.0,8.0,4000.0,3215.0
+ Xiaomi, Redmi 8, Android,32.0,8.0,12.0,3.0,5000.0,2199.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Huawei, Y7 2019, Android,32.0,8.0,13.0,3.0,4000.0,1799.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Apple, iPhone 11 Pro Max, iOS,256.0,12.0,12.0,4.0,3969.0,15899.0
+ General Mobile, GM 5, Android,16.0,5.0,13.0,2.0,,1798.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6557.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,2095.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5690.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2989.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,29.0
+ Oppo, Reno Z, Android,128.0,32.0,48.0,4.0,4035.0,3540.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2560.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12949.0
+ Samsung, Galaxy J7 Pro, Android,16.0,13.0,13.0,3.0,3600.0,2099.0
+ LG, K10 (2017), Android,16.0,13.0,13.0,2.0,2800.0,1089.0
+ Samsung, Galaxy A70, Android,128.0,32.0,32.0,6.0,4500.0,3739.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Oppo, A9 2020, Android,128.0,16.0,48.0,4.0,5000.0,2999.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Oppo, A12,,32.0,5.0,13.0,3.0,4230.0,2249.0
+ Samsung, Galaxy S10 Lite, Android,128.0,32.0,48.0,8.0,4500.0,6049.0
+ Samsung, Note20, Android,256.0,10.0,64.0,8.0,4300.0,8959.0
+ Xiaomi, Redmi 8, Android,32.0,8.0,12.0,3.0,5000.0,2269.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2949.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3469.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Oppo Realme, C2, Android,64.0,5.0,13.0,3.0,4000.0,2158.0
+ Vestel, Venus Z40, Android,128.0,8.0,16.0,4.0,3500.0,4199.0
+ Samsung, Galaxy A2 Core, Android,16.0,5.0,5.0,1.0,2600.0,1979.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Vestel, Venus V7, Android,64.0,13.0,13.0,3.0,4050.0,2135.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Oppo, A52,,64.0,16.0,12.0,4.0,4880.0,27449.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2850.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Samsung, Galaxy J7 Pro, Android,16.0,13.0,13.0,3.0,3600.0,16999.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Samsung, Galaxy Note 10 Lite, Android,128.0,32.0,12.0,6.0,4500.0,4699.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Xiaomi, Redmi Note 9S, Android,128.0,16.0,48.0,6.0,5020.0,3298.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,1949.0
+ Xiaomi, Redmi 6A, Android,16.0,5.0,13.0,2.0,3000.0,2999.0
+ LG, K9, Android,16.0,5.0,8.0,2.0,2500.0,1985.0
+ Huawei, P40 Pro, Android,256.0,32.0,50.0,8.0,4200.0,11129.0
+ Huawei, P30 Lite, Android,64.0,32.0,24.0,4.0,3340.0,2775.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Samsung, Galaxy M31, Android,128.0,32.0,64.0,6.0,6000.0,2999.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3340.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ Oppo, A52,,64.0,16.0,12.0,4.0,4880.0,28.0
+ Samsung, Galaxy M20, Android,32.0,8.0,13.0,3.0,5000.0,2550.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12949.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,25799.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Hiking, A19, Android,64.0,8.0,16.0,4.0,3200.0,15959.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy J7 Core, Android,16.0,5.0,13.0,2.0,3000.0,1999.0
+ Huawei, Y7 (2019), Android,32.0,8.0,13.0,3.0,4000.0,2399.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi 9 Duos, Android,32.0,8.0,13.0,3.0,5020.0,2690.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,8.0,5260.0,4259.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114129.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3469.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Oppo Realme, RMX2061, Android 10,128.0,16.0,64.0,8.0,4300.0,3699.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,2095.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Samsung, Galaxy S10 Lite, Android,128.0,32.0,48.0,8.0,4500.0,5999.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Xiaomi, Mi 9T, Android,128.0,20.0,48.0,6.0,4000.0,5399.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Honor, 8S, Android,64.0,5.0,13.0,3.0,3020.0,2833.0
+ Apple, iPhone 8, iOS,64.0,7.0,12.0,2.0,1821.0,62.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Vestel, Venus Z40, Android,128.0,8.0,16.0,4.0,3500.0,4199.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,29.0
+ Samsung, Galaxy A30s, Android,64.0,16.0,25.0,4.0,4000.0,2829.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2560.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2989.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Oppo, A52,,64.0,16.0,12.0,4.0,4880.0,28.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2969.0
+ Huawei, P20 Pro, Android,128.0,24.0,40.0,6.0,4000.0,5349.0
+ Xiaomi, Redmi 8, Android,32.0,8.0,12.0,3.0,5000.0,2269.0
+ Samsung, Galaxy A50, Android,64.0,25.0,25.0,6.0,4000.0,53394.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7649.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Oppo, A9 2020, Android,128.0,16.0,48.0,4.0,5000.0,2999.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,24.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Samsung, Galaxy A2 Core, Android,16.0,5.0,5.0,1.0,2600.0,1979.0
+ C5 Mobile, Noa G1, Android,8.0,2.0,5.0,1.0,2250.0,9999.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Apple, iPhone 11 Pro, iOS,512.0,12.0,12.0,4.0,3046.0,14290.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,24.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ C5 Mobile, Noa G1, Android,8.0,2.0,5.0,1.0,2250.0,9999.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Apple, iPhone 11 Pro, iOS,512.0,12.0,12.0,4.0,3046.0,14290.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Honor, 8S, Android,64.0,5.0,13.0,3.0,3020.0,1943.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Samsung, Galaxy Note 9, Android,128.0,8.0,12.0,6.0,4000.0,6499.0
+ Samsung, Galaxy J6 Plus, Android,32.0,8.0,13.0,3.0,3300.0,3099.0
+ Samsung, Galaxy S20+, Android,128.0,10.0,12.0,12.0,4500.0,7879.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Oppo, Reno 4, Android,128.0,32.0,48.0,8.0,4015.0,4418.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2919.0
+ Oppo, Reno 4 Pro, Android,256.0,32.0,48.0,8.0,4000.0,6755.0
+ Honor, 7S, Android,16.0,5.0,13.0,2.0,3020.0,1760.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Lenovo, Vibe Shot Z90-7, Android,32.0,8.0,16.0,3.0,2900.0,16.0
+ Huawei, P20 Pro, Android,128.0,24.0,40.0,6.0,4000.0,5349.0
+ Samsung, Galaxy A50, Android,64.0,25.0,25.0,6.0,4000.0,53394.0
+ Xiaomi, Mi Note 10, Android,128.0,32.0,108.0,6.0,5260.0,6199.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Vestel, Venus E5, Android,32.0,8.0,13.0,3.0,3400.0,2299.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Vestel, Venus V7, Android,64.0,13.0,13.0,3.0,4050.0,2135.0
+ Samsung, Galaxy M20, Android,32.0,8.0,13.0,3.0,5000.0,2459.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2859.0
+ Samsung, Galaxy S10 Lite, Android,128.0,32.0,48.0,8.0,4500.0,6049.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Samsung, Galaxy A30s, Android,64.0,16.0,25.0,4.0,4000.0,2829.0
+ Oppo, A91, Android,128.0,16.0,48.0,8.0,4025.0,3169.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Alcatel, 1S, Android,64.0,5.0,13.0,4.0,3060.0,1995.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Samsung, Galaxy Note 5, Android,32.0,5.0,16.0,4.0,3000.0,2499.0
+ Samsung, Galaxy J7 Prime, Android,32.0,13.0,13.0,3.0,3300.0,1850.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Samsung, Galaxy J7 Pro, Android,16.0,13.0,13.0,3.0,3600.0,16999.0
+ Apple, iPhone 11 Pro Max, iOS,256.0,12.0,12.0,4.0,3969.0,15899.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,1949.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, P20 Lite, Android,64.0,16.0,16.0,4.0,3000.0,2349.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Honor, 7S, Android,16.0,5.0,13.0,2.0,3020.0,1689.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, Galaxy M20, Android,32.0,8.0,13.0,3.0,5000.0,2459.0
+ Huawei, P Smart (2019), Android,64.0,8.0,13.0,3.0,3400.0,2599.0
+ Oppo Realme, RMX2061, Android 10,128.0,16.0,64.0,8.0,4300.0,3876.0
+ Oppo Realme, C2, Android,32.0,5.0,13.0,2.0,4000.0,2069.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Oppo, Reno2 Z, Android,128.0,16.0,48.0,8.0,4000.0,3255.0
+ Samsung, Galaxy A2 Core, Android,16.0,5.0,5.0,1.0,2600.0,1999.0
+ General Mobile, GM 9 GO, Android,16.0,5.0,13.0,1.0,3500.0,1889.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2859.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Huawei, P20 Lite, Android,64.0,16.0,16.0,4.0,3000.0,3049.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,10479.0
+ Samsung, Galaxy Note 10, Android,256.0,10.0,12.0,8.0,3500.0,7299.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2499.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12949.0
+ Samsung, Galaxy A20s, Android,32.0,8.0,13.0,3.0,4000.0,2679.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,1949.0
+ Casper, VIA P3, Android,32.0,8.0,13.0,3.0,3000.0,2199.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ General Mobile, GM 10, Android,64.0,8.0,13.0,3.0,4000.0,1999.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Samsung, Note20, Android,256.0,10.0,64.0,8.0,4300.0,9299.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Infinix, Hot 8 X650C, Android,64.0,8.0,13.0,4.0,5000.0,2035.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2929.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,2095.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2229.0
+ Xiaomi, X3 NFC, Android,128.0,20.0,64.0,6.0,5160.0,3499.0
+ Oppo, A9 2020, Android,128.0,16.0,48.0,4.0,5000.0,2968.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi 9A, Android,32.0,5.0,13.0,2.0,5000.0,2173.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,10479.0
+ Apple, iPhone 11 Pro, iOS,512.0,12.0,12.0,4.0,3046.0,14599.0
+ Oppo Realme, RMX2040, Android 10,128.0,16.0,48.0,4.0,5000.0,2915.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3919.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ General Mobile, GM 10, Android,64.0,8.0,13.0,3.0,4000.0,1919.0
+ Samsung, Galaxy S20, Android,128.0,10.0,12.0,8.0,4000.0,7299.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,13099.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Huawei, Y7 (2019), Android,32.0,8.0,13.0,3.0,4000.0,2199.0
+ Xiaomi, Redmi 9 Duos, Android,32.0,8.0,13.0,3.0,5020.0,2358.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3340.0
+ Samsung, Galaxy Note 10, Android,256.0,10.0,12.0,8.0,3500.0,7299.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12949.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2859.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,8.0,5260.0,4259.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Oppo, A73, Android,128.0,16.0,16.0,4.0,4015.0,2899.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Xiaomi, Mi 10, Android,128.0,20.0,108.0,8.0,4780.0,10572.0
+ Apple, iPhone 11 Pro Max, iOS,512.0,12.0,12.0,4.0,3969.0,16298.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Huawei, P Smart (2019), Android,64.0,8.0,13.0,3.0,3400.0,2599.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Samsung, Galaxy M20, Android,32.0,8.0,13.0,3.0,5000.0,2459.0
+ Apple, iPhone XS Max, iOS,256.0,7.0,12.0,4.0,3174.0,14250.0
+ Huawei, Mate 10 Lite, Android,64.0,13.0,16.0,4.0,3240.0,2599.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Infinix, Hot 8 X650C, Android,64.0,8.0,13.0,4.0,5000.0,2260.0
+ Casper, Via A2, Android,32.0,20.0,16.0,3.0,3000.0,1899.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Elephone, U3H Duos, Android,256.0,24.0,48.0,8.0,3500.0,32.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Huawei, P30 Lite, Android,64.0,32.0,24.0,4.0,3340.0,2659.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Xiaomi, Mi 9T, Android,64.0,20.0,48.0,6.0,4000.0,3819.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5499.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,29.0
+ Honor, 8S, Android,64.0,5.0,13.0,3.0,3020.0,2833.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Elephone, E10 Pro, Android,128.0,13.0,48.0,4.0,4000.0,3275.0
+ Elephone, E10, Android,64.0,13.0,48.0,4.0,4000.0,3.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5499.0
+ Casper, VIA P3, Android,32.0,8.0,13.0,3.0,3000.0,1989.0
+ Samsung, Galaxy Xcover 4, Android,16.0,5.0,13.0,2.0,2800.0,2049.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2289.0
+ Huawei, P Smart (2019), Android,64.0,8.0,13.0,3.0,3400.0,29416.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3719.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Xiaomi, Redmi 9C, Android,64.0,5.0,13.0,3.0,5000.0,2628.0
+ Xiaomi, Mi Note 10, Android,128.0,32.0,108.0,6.0,5260.0,63978.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5458.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Alcatel, 3X 2020, Android,128.0,13.0,48.0,6.0,5000.0,2899.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Alcatel, 1S (2020), Android,32.0,5.0,13.0,3.0,4000.0,1979.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ Xiaomi, Redmi 7A, Android,32.0,5.0,12.0,2.0,4000.0,1949.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,2889.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Oppo, A12,,32.0,5.0,13.0,3.0,4230.0,2259.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12949.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2969.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3799.0
+ Apple, iPhone 8, iOS,128.0,7.0,12.0,2.0,1821.0,6528.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5690.0
+ Reeder, P13 Blue, Android,16.0,5.0,8.0,3.0,4080.0,1379.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11 Pro Max, iOS,512.0,12.0,12.0,4.0,3969.0,16298.0
+ Huawei, P Smart (2019), Android,64.0,8.0,13.0,3.0,3400.0,29416.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Samsung, Note20, Android,256.0,10.0,64.0,8.0,4300.0,8959.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3799.0
+ Apple, iPhone 8, iOS,128.0,7.0,12.0,2.0,1821.0,6528.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5690.0
+ Reeder, P13 Blue, Android,16.0,5.0,8.0,3.0,4080.0,1379.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11 Pro Max, iOS,512.0,12.0,12.0,4.0,3969.0,16298.0
+ Huawei, P Smart (2019), Android,64.0,8.0,13.0,3.0,3400.0,29416.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Samsung, Note20, Android,256.0,10.0,64.0,8.0,4300.0,8959.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Samsung, Galaxy Z Flip, Android,256.0,10.0,12.0,8.0,3300.0,14199.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2929.0
+ Meizu, M10, Android,32.0,8.0,13.0,3.0,4000.0,18.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Oppo Realme, RMX2040, Android,128.0,16.0,64.0,8.0,4300.0,3279.0
+ Samsung, Galaxy S20+, Android,128.0,10.0,12.0,12.0,4500.0,7879.0
+ Samsung, Galaxy J4 Plus, Android,16.0,5.0,13.0,2.0,3300.0,2099.0
+ Huawei, P40 Pro, Android,256.0,32.0,50.0,8.0,4200.0,9999.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy A20s, Android,32.0,8.0,13.0,3.0,4000.0,2679.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Casper, Via A3, Android,64.0,16.0,12.0,4.0,3400.0,2449.0
+ Xiaomi, Redmi 9 Duos, Android,32.0,8.0,13.0,3.0,5020.0,2358.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114129.0
+ Samsung, Galaxy S20+, Android,128.0,10.0,12.0,12.0,4500.0,7879.0
+ Samsung, Note20, Android,256.0,10.0,64.0,8.0,4300.0,8959.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,1949.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Huawei, Y7 (2019), Android,32.0,8.0,13.0,3.0,4000.0,2199.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,1949.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114199.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Oppo, A52,,64.0,16.0,12.0,4.0,4880.0,28.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ C5 Mobile, Noa X2 Plus, Android,32.0,8.0,12.0,3.0,2500.0,1499.0
+ Samsung, Galaxy Note 10, Android,256.0,10.0,12.0,8.0,3500.0,7448.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Oppo Realme, C2, Android,32.0,5.0,13.0,2.0,4000.0,1949.0
+ Oppo Realme, RMX2061, Android 10,128.0,16.0,64.0,8.0,4300.0,3876.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7644.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2850.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7490.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Oppo Realme, 5i, Android,64.0,8.0,12.0,4.0,5000.0,2394.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,1625.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Huawei, Y5P Duos, Android,32.0,5.0,8.0,2.0,3020.0,2159.0
+ Oppo Realme, RMX2040, Android,128.0,16.0,64.0,8.0,4300.0,3299.0
+ Xiaomi, Redmi 9A, Android,32.0,5.0,13.0,2.0,5000.0,2173.0
+ Samsung, Galaxy A20, Android,32.0,8.0,13.0,3.0,4000.0,2998.0
+ Samsung, Galaxy A70, Android,128.0,32.0,32.0,6.0,4500.0,3739.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Xiaomi, Redmi Note 8, Android,128.0,13.0,48.0,4.0,4000.0,29.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Casper, VIA P3, Android,32.0,8.0,13.0,3.0,3000.0,1989.0
+ Oppo, Reno 4, Android,128.0,32.0,48.0,8.0,4015.0,4418.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,129.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2919.0
+ Apple, iPhone SE 2020, iOS,256.0,7.0,12.0,3.0,1821.0,6339.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Huawei, Y5P Duos, Android,32.0,5.0,8.0,2.0,3020.0,2159.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Oppo, Reno 4, Android,128.0,32.0,48.0,8.0,4015.0,4418.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,129.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2919.0
+ Apple, iPhone SE 2020, iOS,256.0,7.0,12.0,3.0,1821.0,6339.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Huawei, Y5P Duos, Android,32.0,5.0,8.0,2.0,3020.0,2159.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,3290.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,3290.0
+ Vestel, Venus V7, Android,64.0,13.0,13.0,3.0,4050.0,2249.0
+ Oppo, A9 2020, Android,128.0,16.0,48.0,4.0,5000.0,2999.0
+ Casper, VIA P3, Android,32.0,8.0,13.0,3.0,3000.0,1989.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Oppo Realme, RMX2040, Android 10,128.0,16.0,48.0,4.0,5000.0,2938.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Xiaomi, Redmi 7A, Android,32.0,5.0,12.0,2.0,4000.0,1949.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2289.0
+ Oppo, Reno2 Z, Android,128.0,16.0,48.0,8.0,4000.0,3215.0
+ Apple, iPhone 8, iOS,64.0,7.0,12.0,2.0,1821.0,5849.0
+ Oppo, A52,,64.0,16.0,12.0,4.0,4880.0,28.0
+ Oppo, Reno 3 Pro, Android,256.0,32.0,48.0,12.0,4025.0,68039.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4963.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,8.0,5260.0,42.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Apple, iPhone X, iOS,64.0,7.0,12.0,3.0,2716.0,9650.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3799.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6557.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3919.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4963.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Oppo Realme, 5 Pro, Android,128.0,16.0,16.0,4.0,4035.0,3045.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,8.0,5260.0,42.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Apple, iPhone X, iOS,64.0,7.0,12.0,3.0,2716.0,9650.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3799.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6557.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3919.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4963.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Oppo Realme, 5 Pro, Android,128.0,16.0,16.0,4.0,4035.0,3045.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Xiaomi, Mi 10, Android,256.0,20.0,108.0,8.0,4780.0,8533.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12949.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ Xiaomi, Mi 9T, Android,64.0,20.0,48.0,6.0,4000.0,3839.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,21.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2859.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ Reeder, P13 Blue, Android,16.0,5.0,8.0,3.0,4080.0,1379.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,2949.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,1949.0
+ Xiaomi, Redmi Note 9S, Android,128.0,16.0,48.0,6.0,5020.0,3798.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Xiaomi, Redmi 9 Duos, Android,32.0,8.0,13.0,3.0,5020.0,2358.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Samsung, Galaxy Z Flip, Android,256.0,10.0,12.0,8.0,3300.0,14499.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,2949.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,3290.0
+ Huawei, Mate 10 Lite, Android,64.0,13.0,16.0,4.0,3240.0,3099.0
+ Turkcell, T60, Android,16.0,5.0,13.0,2.0,2400.0,18.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Samsung, Galaxy A70, Android,128.0,32.0,32.0,6.0,4500.0,3739.0
+ Vestel, Venus Z40, Android,128.0,8.0,16.0,4.0,3500.0,4199.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,29.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Apple, iPhone XS Max, iOS,256.0,7.0,12.0,4.0,3174.0,14250.0
+ General Mobile, GM 9 Plus, Android,32.0,12.0,5.0,3.0,3450.0,1895.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Huawei, Mate 20 Pro, Android,128.0,24.0,40.0,6.0,4200.0,10999.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3950.0
+ Oppo Realme, 5i, Android,64.0,8.0,12.0,4.0,5000.0,2394.0
+ Samsung, Galaxy Note 10 Lite, Android,128.0,32.0,12.0,6.0,4500.0,4699.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Mi 9T, Android,64.0,20.0,48.0,6.0,4000.0,3839.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2229.0
+ Oppo Realme, 5i, Android,64.0,8.0,12.0,4.0,5000.0,2394.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3350.0
+ Apple, iPhone 8 Plus, iOS,64.0,7.0,12.0,3.0,2691.0,76.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2969.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,129.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,13099.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Samsung, Galaxy S20, Android,128.0,10.0,12.0,8.0,4000.0,7299.0
+ Tcl, 10 PLUS, Android,256.0,16.0,48.0,6.0,4500.0,40.0
+ General Mobile, GM 9 GO, Android,16.0,5.0,13.0,1.0,3500.0,1699.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone 6S, iOS,32.0,5.0,12.0,2.0,1715.0,4486.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5299.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5538.0
+ Huawei, Y7 (2019), Android,32.0,8.0,13.0,3.0,4000.0,2199.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Honor, Honor 9X, Android,128.0,16.0,48.0,4.0,4000.0,2779.0
+ Reeder, P13 Blue, Android,16.0,5.0,8.0,3.0,4080.0,1379.0
+ Samsung, Galaxy J4 Core, Android,16.0,5.0,8.0,1.0,3300.0,2389.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Apple, iPhone 8 Plus, iOS,64.0,7.0,12.0,3.0,2691.0,72.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3360.0
+ Reeder, P13 Blue, Android,16.0,5.0,8.0,3.0,4080.0,1379.0
+ Xiaomi, Redmi Note 8, Android,128.0,13.0,48.0,4.0,4000.0,29.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Apple, iPhone 7 Plus, iOS,32.0,7.0,12.0,3.0,2900.0,6250.0
+ LG, K61, Android,128.0,16.0,48.0,4.0,4000.0,2989.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Apple, iPhone 7 Plus, iOS,32.0,7.0,12.0,3.0,2900.0,49.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2560.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2560.0
+ Samsung, Galaxy J4 Plus, Android,16.0,5.0,13.0,2.0,3300.0,2.0
+ Oppo, A91, Android,128.0,16.0,48.0,8.0,4025.0,3169.0
+ Oppo, Reno 3 Pro, Android,256.0,32.0,48.0,12.0,4025.0,6299.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12949.0
+ Oppo, A12,,32.0,5.0,13.0,3.0,4230.0,2259.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2560.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,1949.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Samsung, Galaxy A80, Android,128.0,48.0,48.0,8.0,3700.0,6258.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3919.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Mi 10 Lite 5G Duos, Android,128.0,16.0,48.0,6.0,4160.0,4350.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7649.0
+ Samsung, Galaxy S20, Android,128.0,10.0,12.0,8.0,4000.0,7299.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7644.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3469.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi 9 Duos, Android,64.0,8.0,13.0,4.0,5020.0,2544.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Samsung, Galaxy A80, Android,128.0,48.0,48.0,8.0,3700.0,6258.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3919.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Mi 10 Lite 5G Duos, Android,128.0,16.0,48.0,6.0,4160.0,4350.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7649.0
+ Samsung, Galaxy S20, Android,128.0,10.0,12.0,8.0,4000.0,7299.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7644.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3469.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi 9 Duos, Android,64.0,8.0,13.0,4.0,5020.0,2544.0
+ Xiaomi, Redmi 9 Duos, Android,64.0,8.0,13.0,4.0,5020.0,2544.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Xiaomi, Redmi Note 9S, Android,128.0,16.0,48.0,6.0,5020.0,3348.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,11199.0
+ Apple, iPhone SE 2020, iOS,256.0,7.0,12.0,3.0,1821.0,6349.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2919.0
+ Samsung, Galaxy A80, Android,128.0,48.0,48.0,8.0,3700.0,4399.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, S3 Mini, Android,8.0,0.3,5.0,1.0,1500.0,695.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy S10E, Android,128.0,10.0,12.0,6.0,3100.0,5419.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Apple, iPhone 11 Pro Max, iOS,256.0,12.0,12.0,4.0,3969.0,15199.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7644.0
+ Vestel, Venus Z40, Android,128.0,8.0,16.0,4.0,3500.0,4199.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Poco, F2 Pro, Android,128.0,20.0,64.0,6.0,4700.0,8272.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy Note 10 Lite, Android,128.0,32.0,12.0,6.0,4500.0,4699.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ Vestel, Venus V7, Android,64.0,13.0,13.0,3.0,4050.0,2139.0
+ Xiaomi, Redmi 9C, Android,32.0,5.0,13.0,2.0,5000.0,2599.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3340.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,11199.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ Xiaomi, Redmi 7A, Android,32.0,5.0,12.0,2.0,4000.0,1949.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Oppo Realme, RMX2061, Android 10,128.0,16.0,64.0,8.0,4300.0,3876.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Apple, iPhone 11 Pro, iOS,256.0,12.0,12.0,4.0,3190.0,13675.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2929.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Mi 10, Android,256.0,20.0,108.0,8.0,4780.0,8999.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Oppo, Reno 4 Pro, Android,256.0,32.0,48.0,8.0,4000.0,6755.0
+ Samsung, Galaxy S20+, Android,128.0,10.0,12.0,12.0,4500.0,7879.0
+ Alcatel, 1S, Android,64.0,5.0,13.0,4.0,3060.0,1989.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Xiaomi, Redmi Note 8, Android,128.0,13.0,48.0,4.0,4000.0,29.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Honor, 8S, Android,64.0,5.0,13.0,3.0,3020.0,1943.0
+ Xiaomi, Redmi 9 Duos, Android,32.0,8.0,13.0,3.0,5020.0,2358.0
+ Huawei, Y5 (2019), Android,16.0,5.0,13.0,2.0,3020.0,1949.0
+ Xiaomi, Redmi 9C, Android,64.0,5.0,13.0,3.0,5000.0,2628.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Samsung, Galaxy Note 8, Android,64.0,8.0,12.0,6.0,3300.0,5699.0
+ Oppo, A52,,64.0,16.0,12.0,4.0,4880.0,28.0
+ Samsung, Galaxy M20, Android,32.0,8.0,13.0,3.0,5000.0,2459.0
+ Huawei, Y5P Duos, Android,32.0,5.0,8.0,2.0,3020.0,2249.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Infinix, S5 Pro X660C Duos, Android 10,128.0,16.0,48.0,6.0,4000.0,2599.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,2095.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Huawei, Y7 (2019), Android,32.0,8.0,13.0,3.0,4000.0,2199.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Mi 10, Android,128.0,20.0,108.0,8.0,4780.0,8283.0
+ Elephone, E10, Android,64.0,13.0,48.0,4.0,4000.0,3099.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2750.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,29.0
+ Xiaomi, Redmi 7A, Android,32.0,5.0,12.0,2.0,4000.0,1949.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ LG, K9, Android,16.0,5.0,8.0,2.0,2500.0,1549.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Elephone, U3H Duos, Android,256.0,24.0,48.0,8.0,3500.0,31.0
+ Poco, F2 Pro, Android,128.0,20.0,64.0,6.0,4700.0,6799.0
+ Poco, F2 Pro, Android,256.0,20.0,64.0,8.0,4700.0,9316.0
+ Xiaomi, Redmi 9C, Android,64.0,5.0,13.0,3.0,5000.0,2628.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Oppo, Reno2 Z, Android,128.0,16.0,48.0,8.0,4000.0,3215.0
+ Oppo Realme, 5i, Android,64.0,8.0,12.0,4.0,5000.0,2394.0
+ Apple, iPhone 11 Pro, iOS,512.0,12.0,12.0,4.0,3046.0,14599.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3799.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5690.0
+ Poco, F2 Pro, Android,128.0,20.0,64.0,6.0,4700.0,5849.0
+ Apple, iPhone 11 Pro Max, iOS,512.0,12.0,12.0,4.0,3969.0,16298.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,12949.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Apple, iPhone XR, iOS,128.0,7.0,12.0,3.0,2942.0,9999.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5299.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2825.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Xiaomi, Mi 10, Android,256.0,20.0,108.0,8.0,4780.0,8999.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Oppo Realme, C2, Android,32.0,5.0,13.0,2.0,4000.0,1949.0
+ Xiaomi, Redmi 7A, Android,32.0,5.0,12.0,2.0,4000.0,1949.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Xiaomi, Mi 8 Pro, Android,128.0,20.0,12.0,8.0,3000.0,4749.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Samsung, Galaxy S10 Lite, Android,128.0,32.0,48.0,8.0,4500.0,6049.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Samsung, Galaxy Z Flip, Android,256.0,10.0,12.0,8.0,3300.0,14199.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Huawei, Y7 2019, Android,32.0,8.0,13.0,3.0,4000.0,18149.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,29.0
+ Xiaomi, Mi 10, Android,256.0,20.0,108.0,8.0,4780.0,8999.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5299.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Xiaomi, Redmi Note 9, Android,64.0,13.0,48.0,3.0,5020.0,2799.0
+ Samsung, Galaxy S20+, Android,128.0,10.0,12.0,12.0,4500.0,7879.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114199.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Honor, 8S, Android,64.0,5.0,13.0,3.0,3020.0,1943.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2929.0
+ Infinix, Hot 8 X650C, Android,64.0,8.0,13.0,4.0,5000.0,2199.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Samsung, Galaxy Note10+, Android,256.0,10.0,16.0,8.0,4300.0,13999.0
+ Samsung, Galaxy Note 10, Android,256.0,10.0,12.0,8.0,3500.0,7448.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,13099.0
+ Apple, iPhone 11 Pro Max, iOS,256.0,12.0,12.0,4.0,3969.0,15899.0
+ Reeder, P13 Max Blue, Android,64.0,8.0,13.0,4.0,4680.0,1849.0
+ Apple, iPhone XS, iOS,64.0,7.0,12.0,4.0,2658.0,8999.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ Oppo, AX7, Android,64.0,2.0,13.0,3.0,4230.0,2499.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Apple, iPhone XR, iOS,128.0,7.0,12.0,3.0,2942.0,7399.0
+ Oppo Realme, RMX2040, Android 10,128.0,16.0,64.0,4.0,4300.0,2759.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2929.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ Xiaomi, Mi A3, Android,64.0,32.0,48.0,4.0,4030.0,2959.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Samsung, Galaxy S20, Android,128.0,10.0,12.0,8.0,4000.0,7299.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Oppo, A73, Android,128.0,16.0,16.0,4.0,4015.0,2929.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Oppo Realme, RMX2040, Android 10,128.0,16.0,64.0,4.0,4300.0,2759.0
+ Vestel, Venus Z40, Android,128.0,8.0,16.0,4.0,3500.0,4199.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Samsung, Galaxy M10, Android,16.0,5.0,13.0,3.0,3400.0,2269.0
+ Samsung, Galaxy Note 9, Android,128.0,8.0,12.0,6.0,4000.0,6399.0
+ Oppo, A12,,32.0,5.0,13.0,3.0,4230.0,2259.0
+ Huawei, Y5 (2018), Android,16.0,5.0,13.0,2.0,3020.0,1960.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2859.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,129.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2560.0
+ Apple, iPhone XS Max, iOS,64.0,7.0,12.0,4.0,3174.0,11599.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2850.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,29.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Huawei, Y5P Duos, Android,32.0,5.0,8.0,2.0,3020.0,2159.0
+ Reeder, P13 Blue, Android,16.0,5.0,8.0,3.0,4080.0,1379.0
+ Samsung, Galaxy S10, Android,128.0,10.0,12.0,8.0,3400.0,6499.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,2095.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,1873.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Samsung, Galaxy A20s, Android,32.0,8.0,13.0,3.0,4000.0,2679.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Samsung, Galaxy Note 8, Android,64.0,8.0,12.0,6.0,3300.0,5049.0
+ Huawei, P40, Android,128.0,32.0,50.0,8.0,3800.0,6999.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5538.0
+ Oppo, A12,,32.0,5.0,13.0,3.0,4230.0,2259.0
+ Hiking, A19, Android,64.0,8.0,16.0,4.0,3200.0,15959.0
+ Xiaomi, Redmi 9C, Android,64.0,5.0,13.0,3.0,5000.0,2628.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,7999.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3069.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, Galaxy Note 10, Android,256.0,10.0,12.0,8.0,3500.0,7448.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,13099.0
+ Huawei, P20 Lite, Android,64.0,16.0,16.0,4.0,3000.0,3049.0
+ Oppo, Reno 4 Lite, Android,128.0,16.0,48.0,8.0,4015.0,3367.0
+ Xiaomi, Mi A3, Android,64.0,32.0,48.0,4.0,4030.0,2959.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Samsung, Galaxy Note 9, Android,128.0,8.0,12.0,6.0,4000.0,6399.0
+ Oppo, A12,,32.0,5.0,13.0,3.0,4230.0,2259.0
+ Samsung, Galaxy S10, Android,128.0,10.0,12.0,8.0,3400.0,6499.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Samsung, Galaxy A9, Android,128.0,24.0,24.0,6.0,3800.0,3699.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5538.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy J7 Prime 2, Android,32.0,13.0,13.0,3.0,3300.0,2799.0
+ Samsung, Galaxy S10E, Android,128.0,10.0,12.0,6.0,3100.0,5419.0
+ Alcatel, 1S, Android,64.0,5.0,13.0,4.0,3060.0,1989.0
+ Samsung, Galaxy M20, Android,32.0,8.0,13.0,3.0,5000.0,2459.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,2889.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5538.0
+ Samsung, Galaxy S20, Android,128.0,10.0,12.0,8.0,4000.0,7299.0
+ Samsung, Galaxy Note 5, Android,32.0,5.0,16.0,4.0,3000.0,2499.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7649.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Samsung, Galaxy J7 Prime 2, Android,32.0,13.0,13.0,3.0,3300.0,2987.0
+ Oppo, Reno 4 Pro, Android,256.0,32.0,48.0,8.0,4000.0,6755.0
+ Apple, iPhone 11, iOS,256.0,12.0,12.0,4.0,3110.0,8979.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2850.0
+ Xiaomi, Redmi Note 8, Android,128.0,13.0,48.0,4.0,4000.0,29.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Samsung, Galaxy A30, Android,64.0,16.0,16.0,4.0,4000.0,2999.0
+ Samsung, Galaxy Note10+, Android,256.0,10.0,16.0,8.0,4300.0,10.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ LG, K41S, Android,32.0,8.0,13.0,3.0,4000.0,2159.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2859.0
+ Samsung, Galaxy Note 5, Android,32.0,5.0,16.0,4.0,3000.0,2499.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Samsung, Galaxy Note 8, Android,64.0,8.0,12.0,6.0,3300.0,5049.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Xiaomi, Redmi 8, Android,32.0,8.0,12.0,3.0,5000.0,2269.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,2550.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5299.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Samsung, Galaxy M31, Android,128.0,32.0,64.0,6.0,6000.0,2999.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,129.0
+ Apple, iPhone 11 Pro Max, iOS,256.0,12.0,12.0,4.0,3969.0,14989.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6557.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Samsung, Galaxy S20, Android,128.0,10.0,12.0,8.0,4000.0,7299.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2929.0
+ General Mobile, GM 10, Android,64.0,8.0,13.0,3.0,4000.0,1985.0
+ Samsung, Galaxy S20+, Android,128.0,10.0,12.0,12.0,4500.0,7879.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Xiaomi, Redmi 9C, Android,64.0,5.0,13.0,3.0,5000.0,2628.0
+ Honor, 8S, Android,64.0,5.0,13.0,3.0,3020.0,2833.0
+ Xiaomi, Redmi 9A, Android,32.0,5.0,13.0,2.0,5000.0,2173.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2929.0
+ Xiaomi, Redmi Note 9 Pro, Android,64.0,16.0,64.0,6.0,5020.0,34.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2560.0
+ Xiaomi, Redmi Note 8 Pro, Android,64.0,20.0,64.0,6.0,4500.0,3319.0
+ Oppo, RXI7 Neo, Android,128.0,25.0,16.0,4.0,3600.0,2699.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Xiaomi, Redmi 8, Android,32.0,8.0,12.0,3.0,5000.0,2269.0
+ Huawei, P30 Pro, Android,128.0,32.0,40.0,6.0,4200.0,8799.0
+ Samsung, Galaxy A20s, Android,32.0,8.0,13.0,3.0,4000.0,2679.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Samsung, Galaxy M31, Android,128.0,32.0,64.0,6.0,6000.0,2999.0
+ Xiaomi, Redmi 9 Duos, Android,64.0,8.0,13.0,4.0,5020.0,2544.0
+ Huawei, Mate 20 Duos, Android,128.0,24.0,12.0,4.0,4000.0,4799.0
+ Vestel, Venus V7, Android,64.0,13.0,13.0,3.0,4050.0,2139.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3340.0
+ Samsung, Galaxy Note 8, Android,64.0,8.0,12.0,6.0,3300.0,5699.0
+ Samsung, M51, Android,128.0,32.0,64.0,8.0,7000.0,3999.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,113819.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7644.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Xiaomi, Redmi 9C, Android,32.0,5.0,13.0,2.0,5000.0,2549.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Apple, iPhone 11 Pro Max, iOS,64.0,12.0,12.0,4.0,3969.0,129.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2949.0
+ Xiaomi, Redmi Note 9S, Android,128.0,16.0,48.0,6.0,5020.0,3348.0
+ Alcatel, 1S, Android,64.0,5.0,13.0,4.0,3060.0,1989.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2929.0
+ LG, K61, Android,128.0,16.0,48.0,4.0,4000.0,2989.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2023.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Samsung, Galaxy J6, Android,32.0,8.0,13.0,3.0,3000.0,2899.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5299.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Vestel, Venus Z40, Android,128.0,8.0,16.0,4.0,3500.0,4199.0
+ Oppo, Reno 3 Pro, Android,256.0,32.0,48.0,12.0,4025.0,6299.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2850.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4963.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Xiaomi, Redmi 9 Duos, Android,32.0,8.0,13.0,3.0,5020.0,2358.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4963.0
+ Xiaomi,,,32.0,,,,5000.0,2520.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2318.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Samsung, Galaxy M31, Android,128.0,32.0,64.0,6.0,6000.0,2999.0
+ Huawei, P Smart Pro, Android,128.0,16.0,48.0,6.0,4000.0,2859.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114199.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy J6 (2018), Android,32.0,8.0,13.0,3.0,3000.0,1715.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Apple, iPhone 6S Plus, iOS,32.0,5.0,12.0,2.0,2750.0,4999.0
+ Samsung, Galaxy M20, Android,32.0,8.0,13.0,3.0,5000.0,2459.0
+ Oppo, A5 2020, Android,64.0,8.0,12.0,3.0,5000.0,2449.0
+ Samsung, Galaxy A10, Android,32.0,5.0,13.0,2.0,3400.0,26.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, Galaxy Note 8, Android,64.0,8.0,12.0,6.0,3300.0,5049.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7649.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Xiaomi, Redmi Note 9 Pro, Android,128.0,16.0,64.0,6.0,5020.0,3679.0
+ Xiaomi, Redmi Note 8, Android,64.0,13.0,48.0,4.0,4000.0,2834.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2664.0
+ Apple, iPhone 11 Pro, iOS,64.0,12.0,12.0,4.0,3190.0,114199.0
+ Huawei, Y5P Duos, Android,32.0,5.0,8.0,2.0,3020.0,2249.0
+ Xiaomi, Redmi 8, Android,32.0,8.0,12.0,3.0,5000.0,2199.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Apple, iPhone X, iOS,64.0,7.0,12.0,3.0,2716.0,10660.0
+ Samsung, Galaxy J4 Core, Android,16.0,5.0,8.0,1.0,3300.0,2199.0
+ Huawei, Y6S Duos, Android,32.0,8.0,13.0,3.0,3020.0,2015.0
+ Samsung, Galaxy Z Flip, Android,256.0,10.0,12.0,8.0,3300.0,14499.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,30.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,35.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ LG, K61, Android,128.0,16.0,48.0,4.0,4000.0,2989.0
+ Casper, VIA A4, Android,64.0,13.0,16.0,4.0,3950.0,2635.0
+ Apple, iPhone SE 2020, iOS,64.0,7.0,12.0,3.0,1821.0,4921.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Samsung, Galaxy M31, Android,128.0,32.0,64.0,6.0,6000.0,2999.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6557.0
+ Samsung, S20 FE, Android,128.0,32.0,12.0,6.0,4500.0,6499.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Samsung, M51, Android,128.0,32.0,64.0,8.0,7000.0,3999.0
+ Samsung, Galaxy M21 Duos, Android,64.0,20.0,48.0,4.0,6000.0,2549.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7644.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,2889.0
+ Huawei, Mate 20 Pro, Android,128.0,24.0,40.0,6.0,4200.0,7188.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,10479.0
+ Xiaomi, Redmi 9A, Android,32.0,5.0,13.0,2.0,5000.0,2173.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ Samsung, Galaxy M11, Android,32.0,8.0,13.0,3.0,5000.0,2249.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2829.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy A31, Android,128.0,20.0,48.0,4.0,5000.0,2949.0
+ Samsung, Galaxy Note 10 Lite, Android,128.0,32.0,12.0,6.0,4500.0,4699.0
+ Huawei, P40 Lite E, Android,64.0,8.0,48.0,4.0,4000.0,29.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5458.0
+ Xiaomi, Mi Note 10 Lite, Android,128.0,16.0,64.0,6.0,5260.0,4099.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7649.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7649.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,3999.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,10579.0
+ Samsung, Galaxy J6 Plus, Android,32.0,8.0,13.0,3.0,3300.0,2699.0
+ Huawei, Y6 2019, Android,32.0,8.0,13.0,2.0,3020.0,2230.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ Oppo, Reno 4 Pro, Android,256.0,32.0,48.0,8.0,4000.0,6755.0
+ Xiaomi, Mi Note 10, Android,128.0,32.0,108.0,6.0,5260.0,5819.0
+ Apple, iPhone 7 Plus, iOS,32.0,7.0,12.0,3.0,2900.0,49.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Apple, iPhone XS, iOS,64.0,7.0,12.0,4.0,2658.0,9499.0
+ General Mobile, GM 9 GO, Android,16.0,5.0,13.0,1.0,3500.0,16399.0
+ Huawei, P40 Lite, Android,128.0,16.0,48.0,6.0,4200.0,3039.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2850.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,3290.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,2095.0
+ Casper, Via M4, Android,16.0,8.0,13.0,2.0,3000.0,2098.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Huawei, Y9 Prime, Android,128.0,16.0,16.0,4.0,4000.0,2615.0
+ Vestel, Venus V5, Android,32.0,5.0,13.0,3.0,3050.0,2499.0
+ Huawei, Y6P Duos, Android,64.0,8.0,13.0,3.0,5000.0,2548.0
+ Apple, iPhone XR, iOS,64.0,7.0,12.0,3.0,2942.0,6557.0
+ Apple, iPhone SE 2020, iOS,128.0,7.0,12.0,3.0,1821.0,5538.0
+ Infinix, Hot 8 X650C, Android,64.0,8.0,13.0,4.0,5000.0,2199.0
+ Apple, iPhone 7 Plus, iOS,128.0,7.0,12.0,3.0,2900.0,7299.0
+ Samsung, A71, Android,128.0,32.0,64.0,8.0,4500.0,4039.0
+ Samsung, Galaxy Note 10 Lite, Android,128.0,32.0,12.0,6.0,4500.0,4699.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,3999.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Xiaomi, X3 NFC, Android,128.0,20.0,64.0,6.0,5160.0,3499.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5499.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Casper, VIA P3, Android,32.0,8.0,13.0,3.0,3000.0,1989.0
+ Samsung, Galaxy Xcover 4, Android,16.0,5.0,13.0,2.0,2800.0,2049.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,10479.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ Samsung, Galaxy M10, Android,16.0,5.0,13.0,3.0,3400.0,2389.0
+ General Mobile, GM 20 Pro, Android,128.0,16.0,48.0,6.0,4050.0,2289.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3340.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3799.0
+ Samsung, Galaxy M31, Android,128.0,32.0,64.0,6.0,6000.0,2999.0
+ Oppo, Reno2 Z, Android,128.0,16.0,48.0,8.0,4000.0,3255.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Samsung, Galaxy A10S, Android,32.0,8.0,13.0,2.0,4000.0,2319.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,2850.0
+ Oppo Realme, C2, Android,32.0,5.0,13.0,2.0,4000.0,1949.0
+ Samsung, Galaxy Z Flip, Android,256.0,10.0,12.0,8.0,3300.0,14499.0
+ Oppo Realme, 5i, Android,64.0,8.0,12.0,4.0,5000.0,2394.0
+ Huawei, P30 Lite, Android,64.0,32.0,24.0,4.0,3340.0,2659.0
+ Apple, iPhone XS Max, iOS,512.0,7.0,12.0,4.0,3174.0,12999.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,3999.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Huawei, P40, Android,128.0,32.0,50.0,8.0,3800.0,6999.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2251.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Apple, iPhone 11, iOS,64.0,12.0,12.0,4.0,3046.0,7559.0
+ Xiaomi, Redmi 9A, Android,32.0,5.0,13.0,2.0,5000.0,2173.0
+ Samsung, Galaxy S10 Plus, Android,128.0,16.0,12.0,8.0,4100.0,5299.0
+ Oppo, A91, Android,128.0,16.0,48.0,8.0,4025.0,3169.0
+ Xiaomi, Redmi 8A, Android,32.0,8.0,12.0,2.0,5000.0,2095.0
+ Apple, iPhone 7, iOS,32.0,7.0,12.0,2.0,1960.0,4125.0
+ Samsung, Galaxy Note 10 Lite, Android,128.0,32.0,12.0,6.0,4500.0,4699.0
+ Samsung, Galaxy Note 10 Plus, Android,256.0,10.0,12.0,12.0,4300.0,8038.0
+ Huawei, P Smart S, Android,128.0,16.0,48.0,4.0,4000.0,2581.0
+ Samsung, Galaxy A51, Android,128.0,32.0,48.0,6.0,4000.0,3599.0
+ Xiaomi, X3 NFC, Android,128.0,20.0,64.0,6.0,5160.0,3499.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Samsung, Galaxy A01, Android,16.0,5.0,13.0,2.0,3000.0,2019.0
+ Huawei, P30 Lite, Android,128.0,24.0,48.0,4.0,3340.0,2866.0
+ Samsung, Galaxy S20 Ultra, Android,128.0,40.0,108.0,12.0,5000.0,10479.0
+ Samsung, Note20 Ultra, Android,256.0,10.0,108.0,8.0,4500.0,116.0
+ Samsung, Galaxy M10, Android,16.0,5.0,13.0,3.0,3400.0,2389.0
+ Xiaomi, Redmi Note 8 Pro, Android,128.0,20.0,64.0,6.0,4500.0,3340.0
+ Apple, iPhone 8 Plus, iOS,128.0,7.0,12.0,3.0,2691.0,6279.0
+ General Mobile, GM 20, Android,64.0,8.0,13.0,4.0,4000.0,2033.0
+ Apple, iPhone 11, iOS,128.0,12.0,12.0,4.0,3046.0,8099.0
+ Oppo, Reno 3, Android,128.0,44.0,48.0,8.0,4025.0,3799.0
+ Xiaomi, Redmi Note 9S, Android,64.0,16.0,48.0,4.0,5020.0,3.0
+ Xiaomi, Mi Note 10 Lite, Android,64.0,16.0,64.0,6.0,5260.0,3849.0
+ Xiaomi, Redmi Note 9, Android,128.0,13.0,48.0,4.0,5020.0,2949.0
+ Samsung, Galaxy A21S, Android,64.0,13.0,48.0,4.0,5000.0,2689.0
+ Samsung, Galaxy A11, Android,32.0,8.0,13.0,2.0,4000.0,2279.0
+ Oppo, A72, Android,128.0,16.0,48.0,4.0,4880.0,3028.0
+ Oppo, Realme C3i Duos, Android,32.0,,12.0,2.0,5000.0,2499.0
+ Casper, VIA.X20, Android 10 (Q),128.0,25.0,48.0,6.0,4510.0,3381.0
+ Oppo, A5s, Android,32.0,8.0,13.0,3.0,4230.0,2199.0
+ Tcl, 10 PLUS, Android,64.0,16.0,48.0,6.0,4500.0,3999.0
+ Oppo, A31, Android,64.0,8.0,12.0,4.0,4230.0,2539.0

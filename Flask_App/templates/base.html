@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} {% endblock %}</title>
+
+    <link href="{{url_for('static', filename = 'css/bootstrap.min.css')}}" rel="stylesheet">
+</head>
+
+<body>
+
+
+
+    <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark" style="background-color: #343A42; margin-bottom: 10px;">
+        <a class="navbar-brand" href="/">Ana Sayfa</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link " href="/predict">Tahmin Yap</a>
+                <a class="nav-item nav-link" href="/statistics">İstatislikler</a>
+                <a class="nav-item nav-link" href="/about">Hakkında</a>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+    {% block body %}
+
+
+
+    {% endblock %}
+
+
+    <script src="{{url_for('static', filename='js/bootstrap.min.js')}}"></script>
+
+</body>
+
+</html>
