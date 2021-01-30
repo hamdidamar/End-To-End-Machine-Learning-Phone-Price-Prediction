@@ -42,11 +42,10 @@ def main():
 
 def about():
     st.title('Geliştirici Bilgileri')
-    st.subheader('Web Sayfası : [Hamdi DAMAR](http://hamdidamar.com/)')
-    st.subheader('Github Adresi : [Hamdi DAMAR](https://github.com/hamdidamar/)')
-    st.subheader('Linkedin Adresi : [Hamdi DAMAR](https://www.linkedin.com/in/hamdi-damar-bb6a8b159/)')
-    st.subheader('Medium Adresi : [Hamdi DAMAR](https://medium.com/@hamdidamar)')
-    st.subheader('Mail Adresi : hamdi.damar@hotmail.com')
+    st.subheader('Github Adresi : [Hamdi DAMAR](https://github.com/hamdidamar/),[Cihan ÇİFCİ](https://github.com/cihancifci/)')
+    st.subheader('Linkedin Adresi : [Hamdi DAMAR](https://www.linkedin.com/in/hamdi-damar-bb6a8b159/),[Cihan ÇİFCİ](https://www.linkedin.com/in/cihan-%C3%A7ifci-758b13162/)')
+    st.subheader('Medium Adresi : [Hamdi DAMAR](https://medium.com/@hamdidamar),[Cihan ÇİFCİ](https://medium.com/@cihan.cifci)')
+    st.subheader('Mail Adresi : hamdi.damar@hotmail.com , cihan.cifci@outlook.com')
 
 def eda():
     st.title('İstatistlikler')
@@ -89,9 +88,10 @@ def predict():
     st.title('Merhaba, *Streamlit!* 👨‍💻')
     selected_brand = marka_index(markalar,st.selectbox('Marka Seçiniz..',markalar))
     
-
-    selected_os = isletim_sistemi(st.radio("İşletim Sistemi",('iOS','Android','Android 10','Android 10 (Q)')))
-    
+    if selected_brand == 1:
+        selected_os = isletim_sistemi(st.radio("İşletim Sistemi",('iOS','iOS X')))
+    else:
+        selected_os = isletim_sistemi(st.radio("İşletim Sistemi",('Android','Android 10','Android 10 (Q)')))
 
     selected_memory = st.number_input('Dahili Hafıza',min_value=8,max_value=512)
     st.write("Dahili Hafıza :"+str(selected_memory)+" GB")
